@@ -9,3 +9,7 @@ __pycache__/
 *.md
 *.zip
 *.html
+*.tsv
+*.txt
+test.js
+test.py
